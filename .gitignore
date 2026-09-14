@@ -1,0 +1,11 @@
+# 编译产物
+*.exe
+*.log
+
+# 缓存
+cache/
+SteamSwitcherCache/
+
+# 系统文件
+Thumbs.db
+Desktop.ini

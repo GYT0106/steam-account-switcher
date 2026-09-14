@@ -1,4 +1,4 @@
-# Steam账户切换器 V1.1（白色主题版）
+# Steam账户切换器 V1.1
 
 一个单文件、免安装、零依赖的 Steam 账户快速切换小工具（C# WinForms，用 Windows 自带的 .NET Framework 编译器即可构建，无需安装任何 SDK）。
 
